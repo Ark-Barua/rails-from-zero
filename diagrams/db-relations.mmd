@@ -1,0 +1,11 @@
+erDiagram
+USER ||--o{ POST : has_many
+USER {
+  int id
+  string email
+}
+POST {
+  int id
+  string title
+  int user_id
+}
