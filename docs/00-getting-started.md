@@ -35,21 +35,6 @@ http://localhost:3000
 - Don’t rush: learn + build small features
 
 
----
 
-## 3) `docs/diagrams.md` (Mermaid diagrams render on GitHub)
-
-```md
-# Diagrams
-
-## MVC
-```mermaid
-flowchart LR
-A[Browser] --> B[Routes]
-B --> C[Controller]
-C --> D[Model]
-D --> E[Database]
-C --> F[View]
-F --> A
 
 
