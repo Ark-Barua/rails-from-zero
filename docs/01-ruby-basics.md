@@ -52,15 +52,15 @@ is_active = true
 Ruby automatically detects types.
 No ```int```, ```string```, or ```boolean``` keywords needed.
 
-#### Naming Rules
+## Naming Rules
 
-## Good:
+### Good:
 ```bash
 user_name
 total_price
 ```
 
-## Avoid:
+### Avoid:
 ```bash
 UserName
 total-price
@@ -250,3 +250,4 @@ Learning these basics makes Rails much easier.
 - Methods
 - Loops
 - Symbols
+
